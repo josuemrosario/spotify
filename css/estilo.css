@@ -163,6 +163,15 @@ nav.navbar-transparente{
 	margin: 12px 15px;
 }
 
+.carousel-control-next, .carousel-control-prev {
+	width: 5%;
+}
+
+
+
+/******************************************/
+/*   FORMATAÇÕES MEIO DA PAGINA           */
+/******************************************/
 /* CENTRO DA PAGINA */
 
 .capa{
